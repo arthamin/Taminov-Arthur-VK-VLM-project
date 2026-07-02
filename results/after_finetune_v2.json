@@ -1,0 +1,9 @@
+{
+  "model": "deepvk/llava-gemma-2b-lora",
+  "adapter": "./lora_adapter_v2",
+  "n_samples_requested": 100,
+  "gqa_ru_accuracy": 0.46,
+  "gqa_ru_n": 100,
+  "mmbench_ru_accuracy": 0.59,
+  "mmbench_ru_n": 100
+}
